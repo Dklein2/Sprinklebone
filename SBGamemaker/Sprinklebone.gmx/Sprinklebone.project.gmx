@@ -11,15 +11,18 @@
       <sprite>sprites\locked</sprite>
       <sprite>sprites\unlocked</sprite>
     </sprites>
+    <sprite>sprites\profileBttn</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <objects name="Test Objects">
       <object>objects\roomIdentifier</object>
+      <object>objects\listenerObj</object>
     </objects>
     <objects name="Menu Objects">
       <object>objects\enterPromptObj</object>
+      <object>objects\touchPromptObj</object>
       <object>objects\backText</object>
       <object>objects\loadGameText</object>
       <object>objects\newGameText</object>
@@ -34,6 +37,12 @@
         <object>objects\chapter4</object>
         <object>objects\chapter5</object>
       </objects>
+      <objects name="buttonObjects">
+        <object>objects\user1Obj</object>
+        <object>objects\user2Obj</object>
+        <object>objects\user3Obj</object>
+        <object>objects\user4Obj</object>
+      </objects>
     </objects>
   </objects>
   <rooms name="rooms">
@@ -47,6 +56,7 @@
     <rooms name="gameLevels">
       <room>rooms\gameroom</room>
     </rooms>
+    <room>rooms\profileSelect</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
