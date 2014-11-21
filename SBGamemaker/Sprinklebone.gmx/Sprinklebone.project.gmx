@@ -12,6 +12,7 @@
       <sprite>sprites\unlocked</sprite>
     </sprites>
     <sprite>sprites\profileBttn</sprite>
+    <sprite>sprites\deleteProfileSprite</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -38,10 +39,25 @@
         <object>objects\chapter5</object>
       </objects>
       <objects name="buttonObjects">
-        <object>objects\user1Obj</object>
-        <object>objects\user2Obj</object>
-        <object>objects\user3Obj</object>
-        <object>objects\user4Obj</object>
+        <objects name="User Profile Buttons">
+          <object>objects\user1Obj</object>
+          <object>objects\user2Obj</object>
+          <object>objects\user3Obj</object>
+          <object>objects\user4Obj</object>
+          <objects name="deleteProfileButtons">
+            <object>objects\user1DeleteObj</object>
+            <object>objects\user2DeleteObj</object>
+            <object>objects\user3DeleteObj</object>
+            <object>objects\user4DeleteObj</object>
+          </objects>
+        </objects>
+        <objects name="ProfileSavedGameButtons">
+          <object>objects\gameAutoSave</object>
+          <object>objects\gameSave1</object>
+          <object>objects\gameSave2</object>
+          <object>objects\gameSave3</object>
+          <object>objects\gameSave4</object>
+        </objects>
       </objects>
     </objects>
   </objects>
@@ -52,11 +68,11 @@
       <room>rooms\mainMenu</room>
       <room>rooms\optionsMenu</room>
       <room>rooms\chapterMenu</room>
+      <room>rooms\profileSelect</room>
     </rooms>
     <rooms name="gameLevels">
       <room>rooms\gameroom</room>
     </rooms>
-    <room>rooms\profileSelect</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
