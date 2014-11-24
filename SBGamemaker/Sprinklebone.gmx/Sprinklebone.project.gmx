@@ -13,9 +13,13 @@
     </sprites>
     <sprite>sprites\profileBttn</sprite>
     <sprite>sprites\deleteProfileSprite</sprite>
+    <sprite>sprites\playerCharacterSprite</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\saveLoadScript.gml</script>
+  </scripts>
   <objects name="objects">
     <objects name="Test Objects">
       <object>objects\roomIdentifier</object>
@@ -60,6 +64,7 @@
         </objects>
       </objects>
     </objects>
+    <object>objects\playerCharacter</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\gamestart</room>

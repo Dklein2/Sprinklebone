@@ -59,7 +59,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>draw_text(x-85,y,global.save1Name);
+            <string>draw_text(x-85,y,global.save4Name);
 </string>
           </argument>
         </arguments>

@@ -53,6 +53,7 @@
   <instances>
     <instance objName="roomIdentifier" x="96" y="32" name="inst_BEDBD8B8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="backText" x="448" y="448" name="inst_7C4759D4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="playerCharacter" x="128" y="512" name="inst_94757FFF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
