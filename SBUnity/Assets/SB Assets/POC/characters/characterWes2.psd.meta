@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: a67a717631db5914897a933f0849ebc6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: charWesLeftLowerArm
+    21300002: charWesHead
+    21300004: charWesLeftOpenHand
+    21300006: charWesTorso
+    21300008: charWesLeftFist
+    21300010: charWesLeftUpperArm
+    21300012: charWesRightUpperArm
+    21300014: charWesRightLowerArm
+    21300016: charWesRightOpenHand
+    21300018: charWesRightFist
+    21300020: charWesLeftUpperLeg
+    21300022: charWesLeftLowerLeg
+    21300024: charWesLeftFoot
+    21300026: charWesRightFoot
+    21300028: charWesRightLowerLeg
+    21300030: charWesUpperRightLeg
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: charWesLeftLowerArm
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 465
+        width: 97
+        height: 131
+      alignment: 9
+      pivot: {x: .219423905, y: .843069315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charWesHead
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 576
+        width: 100
+        height: 122
+      alignment: 9
+      pivot: {x: .264228553, y: .195668712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charWesLeftOpenHand
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 622
+        width: 68
+        height: 80
+      alignment: 9
+      pivot: {x: .178246886, y: .839790344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charWesTorso
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 306
+        width: 126
+        height: 279
+      alignment: 9
+      pivot: {x: .491040051, y: .0751286969}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charWesLeftFist
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 565
+        width: 58
+        height: 61
+      alignment: 9
+      pivot: {x: .254959643, y: .828303099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charWesLeftUpperArm
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 486
+        width: 74
+        height: 179
+      alignment: 9
+      pivot: {x: .534919918, y: .806766808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charWesRightUpperArm
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 347
+        width: 73
+        height: 178
+      alignment: 9
+      pivot: {x: .559673965, y: .800667763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charWesRightLowerArm
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 207
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: .21505864, y: .831244469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charWesRightOpenHand
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 123
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charWesRightFist
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 141
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charWesLeftUpperLeg
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 156
+        width: 111
+        height: 209
+      alignment: 9
+      pivot: {x: .550504386, y: .912402987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charWesLeftLowerLeg
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 120
+        width: 79
+        height: 210
+      alignment: 9
+      pivot: {x: .579832435, y: .920449972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charWesLeftFoot
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 31
+        width: 111
+        height: 51
+      alignment: 9
+      pivot: {x: .246868506, y: .845934689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charWesRightFoot
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 23
+        width: 107
+        height: 48
+      alignment: 9
+      pivot: {x: .261832982, y: .826716483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charWesRightLowerLeg
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 79
+        width: 80
+        height: 207
+      alignment: 9
+      pivot: {x: .555184543, y: .930101156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charWesUpperRightLeg
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 90
+        width: 109
+        height: 207
+      alignment: 9
+      pivot: {x: .560753644, y: .901664853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
